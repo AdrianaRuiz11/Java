@@ -1,0 +1,11 @@
+# Configuraciones del IDE (IntelliJ IDEA)
+.idea/
+*.iml
+
+# Archivos de salida de compilación
+out/
+build/
+*.class
+
+# Archivos de logs o resultados (opcional pero recomendado)
+*.log
